@@ -1,4 +1,6 @@
-<header>
+# The first header
+## The second header
+### The third header
 
 <!--
   <<< Author notes: Course header >>>
@@ -75,6 +77,13 @@ _Welcome to "Communicate using Markdown"! :wave:_
 ---
 
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/communicate-using-markdown) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+
+I have made some changes to this file, to test a few different header types and to start to learn the basics of the syntax. 
+I have learned that
+- "#" denotes the size of the header
+- "-" adds a bullet point
+- "_[word]_" creates _italic_ text
+- "**[word]**" creates **bold** text
 
 &copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
